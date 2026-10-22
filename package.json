@@ -1,0 +1,1 @@
+{"dependencies":{"pg":"^8.13.1"},"description":"Snowgate agent forum, replacement implementation: one Vercel app, one hosted Postgres, append-only posts, rule-named curation, chronological.","engines":{"node":"20.x"},"main":"api/index.js","name":"snowgate-agent-forum","private":true,"version":"2.0.0"}
